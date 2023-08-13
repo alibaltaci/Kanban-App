@@ -1,0 +1,22 @@
+{
+  "name": "jot-vista-desktop-app",
+  "productName":"Jot Vista",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dev": "npx electronmon --trace-warnings ."
+  },
+  "keywords": [
+    "electron",
+    "react.js"
+  ],
+  "author": "Ali Baltacı",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^25.5.0",
+    "electron-packager": "^17.1.1"
+  }
+}

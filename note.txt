@@ -1,0 +1,14 @@
+- Electron'u dahil etmek.
+    --> npm i electron .
+    
+- Değişiklikleri uygulama penceresinde takip edebilmek için
+    --> npx electronmon .
+    --> package.json --> "scripts" --> "dev":"npx electronmon --trace-warnings ."
+
+- Failed to load resource: net::ERR_FILE_NOT_FOUND
+   --> app --> package.json --> "homepage": ".",
+    --> build !!!!!
+
+- Paketlemek için (önce build işlemi)
+electron-packager . Jot-Vista --overwrite --platform=win32 --arch=ia32 --icon=jv-logo.png --prune=true --out=release-builds --version-string.CompanyName="Sisypus Soft" --version-string.FileDescription=CE --version-string.ProductName="Jot 
+Vista"

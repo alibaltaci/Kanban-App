@@ -1,0 +1,41 @@
+{
+    "kanbanPage":{
+        "add":{
+            "inputText":"Add Todo...",
+            "buttonText":"Add"
+        }
+        
+    },
+    "footer":{
+        "content":"My name is Ozymandias, king of kings; Look on my works, ye Mighty, and despair!",
+        "name":"Sisyphus Soft",
+        "socialData":[
+            {
+                "title": "LinkedIn",
+                "type": "linkedin",
+                "link":"https://www.linkedin.com/in/alibaltaci/"
+            },
+            {
+                "title": "GitHub",
+                "type": "github",
+                "link":"https://github.com/alibaltaci"
+            },
+            {
+                "title": "Medium",
+                "type": "medium",
+                "link":"https://alibaltaci.medium.com/"
+            },
+            {
+                "title": "YouTube",
+                "type": "youtube",
+                "link":"https://www.youtube.com/channel/UCP_II4iZ96EFzqnF6eKaG9g"
+            },
+            {
+                "title": "Instagram",
+                "type": "instagram",
+                "link":"https://www.instagram.com/_alibaltaci_/"
+            }
+        ]
+    }
+
+}
